@@ -7,7 +7,8 @@ This project is an interactive sales performance analysis developed using Micros
 The project transforms raw sales data into an interactive dashboard that provides insights into sales performance across products, customers, categories, regions, and time.
 
 ## Dashboard
-
+![Sales Performance Dashboard]
+(sales-performance-dashboard.png)
 The Power BI dashboard provides an overview of:
 
 - Total Sales
